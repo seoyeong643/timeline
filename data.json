@@ -2,36 +2,43 @@
   {
     "year": "1940",
     "event": "The Enigma machine was decoded using AI, during WWII.",
-    "image": "images/enigma.png"
+    "image": "images/enigma.png",
+    "containerClass": "left-container"
   },
   {
     "year": "1950",
     "event": "Alan Turing released a test to test for machine intelligence.",
-    "image": "images/turing.png"
+    "image": "images/turing.png",
+    "containerClass": "right-container"
   },
   {
     "year": "1955",
     "event": "John McCarthy coins the term 'AI'.",
-    "image": "images/mccarthy.png"
+    "image": "images/mccarthy.png",
+    "containerClass": "left-container"
   },
   {
     "year": "1997",
     "event": "DeepBlue beats chess legend Garry Kasparov.",
-    "image": "images/deepblue.png"
+    "image": "images/deepblue.png",
+    "containerClass": "right-container"
   },
   {
     "year": "2011",
     "event": "IBM Watson – The Question Answering Machine is introduced.",
-    "image": "images/watson.png"
+    "image": "images/watson.png",
+    "containerClass": "left-container"
   },
   {
     "year": "2020",
     "event": "A revolutionary tool for automated conversations – GPT-3 is introduced.",
-    "image": "images/gpt3.png"
+    "image": "images/gpt3.png",
+    "containerClass": "right-container"
   },
   {
     "year": "2022",
     "event": "AI has become an inseparable part of the workforce and is making strides in cybersecurity.",
-    "image": "images/cybersecurity.png"
+    "image": "images/cybersecurity.png",
+    "containerClass": "left-container"
   }
 ]
