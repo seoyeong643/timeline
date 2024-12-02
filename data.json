@@ -1,187 +1,37 @@
 [
   {
-    "model": "GPT-2",
-    "releaseDate": "2019-01-01",
-    "nationalAffiliation": "United States"
+    "year": "1940",
+    "event": "The Enigma machine was decoded using AI, during WWII.",
+    "image": "images/enigma.png"
   },
   {
-    "model": "Megatron-LM (Original, 8.3B)", 
-    "releaseDate": "2019-10-01",
-    "nationalAffiliation": "United States"
+    "year": "1950",
+    "event": "Alan Turing released a test to test for machine intelligence.",
+    "image": "images/turing.png"
   },
   {
-    "model": "Turing NLG",
-    "releaseDate": "2020-01-01",
-    "nationalAffiliation": "United Kingdom"
+    "year": "1955",
+    "event": "John McCarthy coins the term 'AI'.",
+    "image": "images/mccarthy.png"
   },
   {
-    "model": "ERNIE-GEN (large)",
-    "releaseDate": "2020-07-01",
-    "nationalAffiliation": "China"
+    "year": "1997",
+    "event": "DeepBlue beats chess legend Garry Kasparov.",
+    "image": "images/deepblue.png"
   },
   {
-    "model": "Turing NLG",
-    "releaseDate": "2020-01-01",
-    "nationalAffiliation": "United Kingdom"
+    "year": "2011",
+    "event": "IBM Watson – The Question Answering Machine is introduced.",
+    "image": "images/watson.png"
   },
   {
-    "model": "T5-11B",
-    "releaseDate": "2019-10-01",
-    "nationalAffiliation": "United States, United Kingdom, Germany, India"
+    "year": "2020",
+    "event": "A revolutionary tool for automated conversations – GPT-3 is introduced.",
+    "image": "images/gpt3.png"
   },
   {
-    "model": "T5-3B",
-    "releaseDate": "2019-10-01",
-    "nationalAffiliation": "United States, United Kingdom, Germany, India"
-  },
-  {
-    "model": "Grover-Mega",
-    "releaseDate": "2019-07-01",
-    "nationalAffiliation": "United States"
-  },
-  {
-    "model": "GPT-2",
-    "releaseDate": "2019-01-01",
-    "nationalAffiliation": "United States"
-  },
-  {
-    "model": "Megatron-Turing NLG 530B",
-    "releaseDate": "2021-10-01",
-    "nationalAffiliation": "United States"
-  },
-  {
-    "model": "Codex",
-    "releaseDate": "2021-07-01",
-    "nationalAffiliation": "United States"
-  },
-  {
-    "model": "HyperClova",
-    "releaseDate": "2021-07-01",
-    "nationalAffiliation": "South Korea"
-  },
-  {
-    "model": "Wu Dao 2.0",
-    "releaseDate": "2021-07-01",
-    "nationalAffiliation": "China"
-  },
-  {
-    "model": "PanGu-alpha",
-    "releaseDate": "2021-04-01",
-    "nationalAffiliation": "China"
-  },
-  {
-    "model": "Wu Dao - Wen Yuan",
-    "releaseDate": "2021-01-01",
-    "nationalAffiliation": "China"
-  },
-  {
-    "model": "GPT-NeoX-20B",
-    "releaseDate": "2022-01-01",
-    "nationalAffiliation": "United States"
-  },
-  {
-    "model": "InstructGPT",
-    "releaseDate": "2022-01-01",
-    "nationalAffiliation": "United States"
-  },
-  {
-    "model": "Jurassic-X",
-    "releaseDate": "2022-04-01",
-    "nationalAffiliation": "Indeterminate"
-  },
-  {
-    "model": "PaLM (540B)",
-    "releaseDate": "2022-04-01",
-    "nationalAffiliation": "United States"
-  },
-  {
-    "model": "Stable Diffusion (LDM-KL-8-G)",
-    "releaseDate": "2022-04-01",
-    "nationalAffiliation": "Germany"
-  },
-  {
-    "model": "Minerva (540B)",
-    "releaseDate": "2022-07-01",
-    "nationalAffiliation": "United States"
-  },
-  {
-    "model": "BLOOM",
-    "releaseDate": "2022-10-01",
-    "nationalAffiliation": "Canada, France, Germany"
-  },
-  {
-    "model": "GLM-130B",
-    "releaseDate": "2022-10-01",
-    "nationalAffiliation": "China"
-  },
-  {
-    "model": "Imagen",
-    "releaseDate": "2022-07-01",
-    "nationalAffiliation": "United States"
-  },
-  {
-    "model": "OPT-175B",
-    "releaseDate": "2022-07-01",
-    "nationalAffiliation": "United States"
-  },
-  {
-    "model": "DALL-E 2",
-    "releaseDate": "2022-07-01",
-    "nationalAffiliation": "United States"
-  },
-  {
-    "model": "Chinchilla",
-    "releaseDate": "2022-07-01",
-    "nationalAffiliation": "United Kingdom"
-  },
-  {
-    "model": "AlphaCode",
-    "releaseDate": "2022-07-01",
-    "nationalAffiliation": "United Kingdom"
-  },
-  {
-    "model": "Gopher",
-    "releaseDate": "2022-07-01",
-    "nationalAffiliation": "United States"
-  },
-  {
-    "model": "Jurassic-1-Jumbo",
-    "releaseDate": "2021-07-01",
-    "nationalAffiliation": "United States"
-  },
-  {
-    "model": "ERNIE 3.0",
-    "releaseDate": "2021-07-01",
-    "nationalAffiliation": "China"
-  },
-  {
-    "model": "CogView",
-    "releaseDate": "2021-07-01",
-    "nationalAffiliation": "China"
-  },
-  {
-    "model": "GPT-J-6B",
-    "releaseDate": "2021-07-01",
-    "nationalAffiliation": "United States"
-  },
-  {
-    "model": "GPT-Neo",
-    "releaseDate": "2021-04-01",
-    "nationalAffiliation": "United States"
-  },
-  {
-    "model": "DALL-E",
-    "releaseDate": "2021-01-01",
-    "nationalAffiliation": "United States"
-  },
-  {
-    "model": "GPT-3 175B (davinci)",
-    "releaseDate": "2020-07-01",
-    "nationalAffiliation": "United States"
-  },
-  {
-    "model": "Meena",
-    "releaseDate": "2020-01-01",
-    "nationalAffiliation": "United States"
+    "year": "2022",
+    "event": "AI has become an inseparable part of the workforce and is making strides in cybersecurity.",
+    "image": "images/cybersecurity.png"
   }
 ]
