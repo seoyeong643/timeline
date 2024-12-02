@@ -1,11 +1,7 @@
-console.log("hi");
-
 document.addEventListener('DOMContentLoaded', () => {
     // Load the JSON data and render the timeline
     d3.json('data.json').then(data => {
         const timeline = d3.select('.timeline');
-
-        console.log("hi");
 
         // Create container elements for each timeline item
         const timelineItems = timeline
