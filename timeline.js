@@ -1,7 +1,7 @@
 // Ensure D3.js version 7 is included in your HTML before this script
 document.addEventListener('DOMContentLoaded', () => {
     // Load the JSON data and render the timeline
-    d3.json('timeline-data.json').then(data => {
+    d3.json('data.json').then(data => {
         const timeline = d3.select('.timeline');
 
         // Create container elements for each timeline item
