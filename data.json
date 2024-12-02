@@ -1,46 +1,44 @@
-{
-  "timeline": [
-    {
-      "company": "Alphabet Inc.",
-      "image": "images/google.png",
-      "period": "2018 - 2019",
-      "description": "The success of every websites depends on search engine optimization and digital marketing strategy.",
-      "containerClass": "left-container"
-    },
-    {
-      "company": "Amazon Inc.",
-      "image": "images/amazon.png", 
-      "period": "2019 - 2020",
-      "description": "The success of every websites depends on search engine optimization and digital marketing strategy.",
-      "containerClass": "right-container"
-    },
-    {
-      "company": "Tesla Inc.",
-      "image": "images/tesla.png",
-      "period": "2020 - 2021", 
-      "description": "The success of every websites depends on search engine optimization and digital marketing strategy.",
-      "containerClass": "left-container"
-    },
-    {
-      "company": "Toyota",
-      "image": "images/toyota.png",
-      "period": "2021 - 2022",
-      "description": "The success of every websites depends on search engine optimization and digital marketing strategy.",
-      "containerClass": "right-container"
-    },
-    {
-      "company": "Flipkart",
-      "image": "images/flipkart.png",
-      "period": "2021 - 2022",
-      "description": "The success of every websites depends on search engine optimization and digital marketing strategy.",
-      "containerClass": "left-container"
-    },
-    {
-      "company": "Youtube",
-      "image": "images/youtube.png",
-      "period": "2021 - 2022",
-      "description": "The success of every websites depends on search engine optimization and digital marketing strategy.",
-      "containerClass": "right-container"
-    }
-  ]
-}
+[
+  {
+    "company": "Alphabet Inc.",
+    "image": "images/google.png",
+    "period": "2018 - 2019",
+    "description": "The success of every websites depends on search engine optimization and digital marketing strategy.",
+    "containerClass": "left-container"
+  },
+  {
+    "company": "Amazon Inc.",
+    "image": "images/amazon.png", 
+    "period": "2019 - 2020",
+    "description": "The success of every websites depends on search engine optimization and digital marketing strategy.",
+    "containerClass": "right-container"
+  },
+  {
+    "company": "Tesla Inc.",
+    "image": "images/tesla.png",
+    "period": "2020 - 2021", 
+    "description": "The success of every websites depends on search engine optimization and digital marketing strategy.",
+    "containerClass": "left-container"
+  },
+  {
+    "company": "Toyota",
+    "image": "images/toyota.png",
+    "period": "2021 - 2022",
+    "description": "The success of every websites depends on search engine optimization and digital marketing strategy.",
+    "containerClass": "right-container"
+  },
+  {
+    "company": "Flipkart",
+    "image": "images/flipkart.png",
+    "period": "2021 - 2022",
+    "description": "The success of every websites depends on search engine optimization and digital marketing strategy.",
+    "containerClass": "left-container"
+  },
+  {
+    "company": "Youtube",
+    "image": "images/youtube.png",
+    "period": "2021 - 2022",
+    "description": "The success of every websites depends on search engine optimization and digital marketing strategy.",
+    "containerClass": "right-container"
+  }
+]

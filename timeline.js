@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // Create container elements for each timeline item
         const timelineItems = timeline
             .selectAll('.container')
-            .data(data.timeline)
+            .data(data)
             .enter()
             .append('div')
             .attr('class', d => `container ${d.containerClass}`);
