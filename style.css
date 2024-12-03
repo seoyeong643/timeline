@@ -1,7 +1,7 @@
 *{
     margin:0;
     padding:0;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
     box-sizing: border-box;
 }
 body{
@@ -49,6 +49,9 @@ body{
 }
 .container:nth-child(7){
     animation-delay: 6s;
+}
+.container:nth-child(8){
+    animation-delay: 7s;
 }
 
 .text-box{

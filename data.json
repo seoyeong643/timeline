@@ -30,15 +30,21 @@
     "containerClass": "left-container"
   },
   {
+    "year": "2014",
+    "event": "Alexa – A virtual assistant becomes a primary tool on Amazon devices.",
+    "image": "images/alexa.png",
+    "containerClass": "right-container"
+  },
+  {
     "year": "2020",
     "event": "A revolutionary tool for automated conversations – GPT-3 is introduced.",
     "image": "images/gpt3.png",
-    "containerClass": "right-container"
+    "containerClass": "left-container"
   },
   {
     "year": "2022",
     "event": "AI has become an inseparable part of the workforce and is making strides in cybersecurity.",
     "image": "images/cybersecurity.png",
-    "containerClass": "left-container"
+    "containerClass": "right-container"
   }
 ]
