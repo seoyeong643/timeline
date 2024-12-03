@@ -47,6 +47,9 @@ body{
 .container:nth-child(6){
     animation-delay: 5s;
 }
+.container:nth-child(7){
+    animation-delay: 6s;
+}
 
 .text-box{
     padding: 20px 30px;
@@ -63,14 +66,33 @@ body{
 }
 .container img{
     position: absolute;
-    width: 40px;
+    width: auto; /* Default width to auto */
+    height: auto; /* Default height to auto */
+    max-width: 60px; /* Ensure the width does not exceed 60px */
+    max-height: 60px; /* Ensure the height does not exceed 60px */
+    aspect-ratio: 1 / 1; /* Maintain a square aspect ratio */
+    object-fit: cover;
     border-radius: 50%;
-    right: -20px;
-    top: 32px;
+    right: 70px;
+    top: -10px;
     z-index: 10px;
 }
 .right-container img{
-    left: -20px;
+    left: 420px;
+}
+
+.container .dot{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-color: #fff;
+    border-radius: 50%;
+    right: -10px;
+    top: 45px;
+    z-index: 10px;
+}
+.right-container .dot{
+    left: -10px;
 }
 
 .timeline::after{
